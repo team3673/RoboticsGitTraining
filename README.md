@@ -66,7 +66,8 @@ This repository is a training ground for our robotics team. It contains placehol
 ## Need Help?
 
 If you have questions or need assistance:
-- Reach out to Kyle Duffy.
+
+- Reach out to Kyle Duffy via kduffy@seasidek12.org
 - Post in the [Discussions] section.
 
 ## License
