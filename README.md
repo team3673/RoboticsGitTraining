@@ -68,8 +68,8 @@ This repository is a training ground for our robotics team. It contains placehol
 If you have questions or need assistance:
 
 - Reach out to Kyle Duffy via kduffy@seasidek12.org
-- Post in the [Discussions] section.
+- Post in the [Discussions](https://github.com/CyberNomadX/RoboticsGitTraining/discussions) section.
 
 ## License
 
-This repository is licensed under the [Apache License](LICENSE).
+This repository is licensed under the [Apache License](LICENSE)(https://github.com/CyberNomadX/RoboticsGitTraining/blob/kylecontrib/LICENSE).
