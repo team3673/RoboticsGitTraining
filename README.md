@@ -66,7 +66,7 @@ This repository is a training ground for our robotics team. It contains placehol
 ## Need Help?
 
 If you have questions or need assistance:
-- Reach out to [your-name].
+- Reach out to [Kyle Duffy].
 - Post in the [Discussions] section.
 
 ## License
