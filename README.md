@@ -13,11 +13,11 @@ This repository is a training ground for our robotics team. It contains placehol
 
 1. **Clone Repository:**
    - Open a web browser.
-   - Go to [Repository URL].
+   - Go to https://github.com/CyberNomadX/RoboticsGitTraining.
    - Click on the "Code" button and copy the repository URL.
    - Open a terminal and type:
      ```bash
-     git clone [repository-url]
+     git clone https://github.com/CyberNomadX/RoboticsGitTraining
      ```
 
 2. **Explore Folders:**
